@@ -27,4 +27,4 @@ test = [
 dev = ["pre-commit"]
 
 [project.scripts]
-run = "hdx.scraper.google-floods.__main__:main"
+run = "hdx.scraper.google.floods.__main__:main"
